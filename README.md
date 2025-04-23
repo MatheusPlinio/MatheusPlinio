@@ -67,3 +67,13 @@ Sou Desenvolvedor Full Stack apaixonado por transformar ideias em soluções com
 ---
 
 **"Sempre buscando crescer como desenvolvedor e como pessoa. Bora codar?"**
+
+<div align="center">
+
+![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
+
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=seu-usuario&theme=tokyonight)](https://git.io/streak-stats)
