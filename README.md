@@ -67,13 +67,3 @@ Sou Desenvolvedor Full Stack apaixonado por transformar ideias em soluções com
 ---
 
 **"Sempre buscando crescer como desenvolvedor e como pessoa. Bora codar?"**
-
-<div align="center">
-
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusPlinio&show_icons=true&theme=tokyonight&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPlinio&layout=compact&theme=tokyonight)
-
-</div>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MatheusPlinio)](https://git.io/streak-stats)
