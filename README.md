@@ -51,7 +51,7 @@ Sou Desenvolvedor Full Stack apaixonado por transformar ideias em soluções com
 
 **🔹 Wysion**  
 📍 Natal/RN — *Desenvolvedor Full Stack*  
-🗓️ Junho/2024 – Atualmente
+🗓️ Junho/2024 – Abril/2025
 
 **🔹 Grupo G Trigueiro**  
 📍 Rio Grande do Norte — *Desenvolvedor Júnior*  
