@@ -76,4 +76,4 @@ Sou Desenvolvedor Full Stack apaixonado por transformar ideias em soluções com
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MatheusPlinio&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MatheusPlinio)](https://git.io/streak-stats)
